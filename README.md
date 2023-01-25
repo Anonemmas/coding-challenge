@@ -1,4 +1,4 @@
-#Coding Challenge
+# Coding Challenge
 
 ## Brief
 Your challenge is to build out a dashboard which showcases a checklist of countries a user plans to travel. Get it looking as close to the design as possible.
