@@ -1,4 +1,4 @@
-# BAG Front-End Coding Challenge
+#Coding Challenge
 
 ## Brief
 Your challenge is to build out a dashboard which showcases a checklist of countries a user plans to travel. Get it looking as close to the design as possible.
@@ -12,8 +12,7 @@ You need to use ReactJs/TypeScript to complete this challenge.
 
 ## How to Submission
 - Create a public/open repository (Gitlab or Github )
-- Submit link to repository & your personal details using this google form https://forms.gle/iTuhssFuMimVvsnC6
-- Deadline : 10th December at 12:00 pm
+- Deadline : 28th January at 17:00 pm
 
 ## Requirements : Your users should be able to:
 
